@@ -1,0 +1,48 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #001f3f; /* Navy */
+    color: #ffcc00; /* Yellow */
+    text-align: center;
+    padding: 60px 0;
+}
+
+nav {
+    background-color: #ffcc00; /* Yellow */
+}
+
+nav a {
+    color: #001f3f; /* Navy */
+    transition: all 0.5s;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+}
+
+nav a:hover{
+    transform: translateY(-5px);
+    border-bottom: 2px solid #001f3f;
+}
+
+section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+footer {
+    background-color: #001f3f; /* Navy */
+    color: #ffcc00; /* Yellow */
+    text-align: center;
+    padding: 20px 0;
+}
+
+.member-img{
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+#club-logo{
+    aspect-ratio: 1/1;
+}
