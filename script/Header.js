@@ -14,7 +14,7 @@ const generateHeader = () => {
     </header>
 
     <nav class="bg-yellow-300 p-4 flex justify-evenly text-lg font-medium">
-        <a class="mx-4" href=""./index.html>Home</a>
+        <a class="mx-4" href="./index.html">Home</a>
         <a class="mx-4" href="./teams.html">Teams</a>
         <a class="mx-4" href="./members.html">Members</a>
         <a class="mx-4" href="#">Contact</a>

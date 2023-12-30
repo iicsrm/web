@@ -1,7 +1,7 @@
 [
     {
         "name" : "Keshav Priyam",
-        "pos" : "Team Lead, WebXpert",
+        "pos" : "Team Lead, WebxPert",
         "imgSrc" : "keshav.jpg",
         "linkedin" : "https://www.linkedin.com/in/keshavpriyam/",
         "github" : "https://github.com/kshavp",
@@ -32,6 +32,14 @@
         "twitter" : "#"
     },
     {
+        "name" : "Sunny Raj",
+        "pos" : "Senior Member, WebxPert",
+        "imgSrc" : "sunny.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sunnyraj84348/",
+        "github" : "https://github.com/SunnyRaj84348",
+        "twitter" : "#"
+    },
+    {
         "name" : "Vanshika Mittal",
         "pos" : "Senior Member, MarkeTix",
         "imgSrc" : "vanshika.jpg",
@@ -40,18 +48,10 @@
         "twitter" : "#"
     },
     {
-        "name" : "Dhruv Bhardwaj",
-        "pos" : "Senior Member, MarkeTix",
-        "imgSrc" : "dhruv.jpeg",
-        "linkedin" : "#",
-        "github" : "#",
-        "twitter" : "#"
-    },
-    {
-        "name" : "Shivanshi Goyal",
-        "pos" : "Member, MarkeTix",
-        "imgSrc" : "shivanshi.jpg",
-        "linkedin" : "https://www.linkedin.com/in/shivanshigoyal201420/",
+        "name" : "Sparsh Jaiswal",
+        "pos" : "Senior Member, InnoVix",
+        "imgSrc" : "sparsh.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sparsh-jaiswal-a061b3267/",
         "github" : "#",
         "twitter" : "#"
     },
@@ -64,32 +64,32 @@
         "twitter" : "#"
     },
     {
-        "name" : "Saurabh Mishra",
-        "pos" : "",
-        "imgSrc" : "",
-        "linkedin" : "https://www.linkedin.com/in/saurabh-mishra-85a3b5239/",
-        "github" : "https://github.com/smishra-247",
+        "name" : "Mohd. Ayan Khan",
+        "pos" : "Senior Member, WebxPert",
+        "imgSrc" : "blank-m.png",
+        "linkedin" : "https://www.linkedin.com/in/ayan-khan-0990a127b/",
+        "github" : "https://github.com/drishti-jaiswal",
         "twitter" : "#"
     },
     {
-        "name" : "Sarvi Sharma",
-        "pos" : "",
-        "imgSrc" : "sarvi.jpg",
-        "linkedin" : "https://www.linkedin.com/in/sarvi-sharma-909a95292/",
+        "name" : "Dhruv Bhardwaj",
+        "pos" : "Senior Member, MarkeTix",
+        "imgSrc" : "dhruv.jpeg",
+        "linkedin" : "#",
         "github" : "#",
         "twitter" : "#"
     },
     {
-        "name" : "Sparsh Jaiswal",
-        "pos" : "",
-        "imgSrc" : "sparsh.jpg",
-        "linkedin" : "https://www.linkedin.com/in/sparsh-jaiswal-a061b3267/",
+        "name" : "Vartika Sharma",
+        "pos" : "Member, InnoVix",
+        "imgSrc" : "vartika.jpeg",
+        "linkedin" : "https://www.linkedin.com/in/vartika-sharma-509504292/",
         "github" : "#",
         "twitter" : "#"
     },
     {
         "name" : "Drishti Jaiswal",
-        "pos" : "",
+        "pos" : "Senior Member, TechSquad",
         "imgSrc" : "drishti.jpeg",
         "linkedin" : "https://www.linkedin.com/in//",
         "github" : "https://github.com/drishti-jaiswal",
@@ -97,34 +97,50 @@
     },
     {
         "name" : "Ujjwal Kumar Singh",
-        "pos" : "",
+        "pos" : "Member, WebxPert",
         "imgSrc" : "ujjwal.jpg",
         "linkedin" : "https://www.linkedin.com/in/theujjwalsinghh",
         "github" : "https://github.com/theujjwalsingh18",
         "twitter" : "#"
     },
     {
+        "name" : "Shivanshi Goyal",
+        "pos" : "Member, MarkeTix",
+        "imgSrc" : "shivanshi.jpg",
+        "linkedin" : "https://www.linkedin.com/in/shivanshigoyal201420/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Saurabh Mishra",
+        "pos" : "Member, InnoVix",
+        "imgSrc" : "saurabh.jpg",
+        "linkedin" : "https://www.linkedin.com/in/saurabh-mishra-85a3b5239/",
+        "github" : "https://github.com/smishra-247",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Sarvi Sharma",
+        "pos" : "Member, TechSquad",
+        "imgSrc" : "sarvi.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sarvi-sharma-909a95292/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Ruchi Chaudhary",
+        "pos" : "Member, WebxPert",
+        "imgSrc" : "blank-f.jpg",
+        "linkedin" : "#",
+        "github" : "https://github.com/Ruchi7310",
+        "twitter" : "#"
+    },
+    {
         "name" : "Akshita Deshwal",
-        "pos" : "",
+        "pos" : "Member, InnoVix",
         "imgSrc" : "akshita.jpeg",
         "linkedin" : "https://www.linkedin.com/in/akshita-deshwal-193955235/",
         "github" : "#",
-        "twitter" : "#"
-    },
-    {
-        "name" : "Vartika Sharma",
-        "pos" : "",
-        "imgSrc" : "vartika.jpeg",
-        "linkedin" : "https://www.linkedin.com/in/vartika-sharma-509504292/",
-        "github" : "#",
-        "twitter" : "#"
-    },
-    {
-        "name" : "Sunny Raj",
-        "pos" : "",
-        "imgSrc" : "sunny.jpg",
-        "linkedin" : "https://www.linkedin.com/in/sunnyraj84348/",
-        "github" : "https://github.com/SunnyRaj84348",
         "twitter" : "#"
     }
 ]
