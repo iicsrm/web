@@ -1,0 +1,27 @@
+[
+    {
+        "name" :"WebXpert",
+        "imgSrc" : "./public/img/teams/webxpert.png",
+        "about" : 
+        "Diverse and dedicated, our tech club team combines talents in website development, web hosting, technology, and strategic planning. With a shared passion for innovation, we collaborate to deliver cutting-edge content, fostering growth and knowledge-sharing within our dynamic community. Together, we shape the future of technology.",
+        "color" : "red"
+    },
+    {
+        "name" :"MarkeTix",
+        "imgSrc" : "./public/img/teams/marketix.jpeg",
+        "about" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim voluptas, voluptatem quas laborum explicabo soluta molestiae sint blanditiis dolorem iste minus molestias perspiciatis totam quibusdam est, quisquam praesentium. Esse, dolore.",
+        "color" : "yellow"
+    },
+    {
+        "name" :"InnoVix",
+        "imgSrc" : "./public/img/teams/innovix.jpeg",
+        "about" : "InnoVix is a dynamic team, spearheading innovation at the intersection of data science, data analysis, app development, and machine learning. With a passion for cutting-edge technologies, we craft solutions that redefine possibilities, leveraging data-driven insights to shape the future.",
+        "color" : "green"
+    },
+    {
+        "name" :"TechSquad",
+        "imgSrc" : "./public/img/teams/techsquad.jpeg",
+        "about" : "Dynamic event management for your club, orchestrating unforgettable experiences. From concept to execution, we handle logistics, promotions, and coordination to ensure seamless and engaging events that resonate with your club's identity and captivate your audience.",
+        "color" : "blue"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name" : "Keshav Priyam",
+        "pos" : "Team Lead, WebXpert",
+        "imgSrc" : "keshav.jpg",
+        "linkedin" : "https://www.linkedin.com/in/keshavpriyam/",
+        "github" : "https://github.com/kshavp",
+        "twitter" : "https://twitter.com/keshavpriyam"
+    },
+    {
+        "name" : "Priyanshu Joshi",
+        "pos" : "Team Lead, MarkeTix",
+        "imgSrc" : "priyanshu-1.jpg",
+        "linkedin" : "https://www.linkedin.com/in/priyanshu-joshi03/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Anubhav Yadav",
+        "pos" : "Team Lead, InnoVix",
+        "imgSrc" : "anubhav.jpeg",
+        "linkedin" : "https://www.linkedin.com/in/anubhav-yadav-srm/",
+        "github" : "https://github.com/AnubhavYadavBCA25",
+        "twitter" : "https://twitter.com/i_am_anubhav7"
+    },
+    {
+        "name" : "Eshaan Sabharwal",
+        "pos" : "Team Lead, TechSquad",
+        "imgSrc" : "eshaan.jpeg",
+        "linkedin" : "https://www.linkedin.com/in/eshaan-sabharwal-b73a201b2/",
+        "github" : "https://github.com/EshaanSabharwal",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Vanshika Mittal",
+        "pos" : "Senior Member, MarkeTix",
+        "imgSrc" : "vanshika.jpg",
+        "linkedin" : "https://www.linkedin.com/in/vanshika-mittal-5736a2278/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Dhruv Bhardwaj",
+        "pos" : "Senior Member, MarkeTix",
+        "imgSrc" : "dhruv.jpeg",
+        "linkedin" : "#",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Shivanshi Goyal",
+        "pos" : "Member, MarkeTix",
+        "imgSrc" : "shivanshi.jpg",
+        "linkedin" : "https://www.linkedin.com/in/shivanshigoyal201420/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Gaurav Rawat",
+        "pos" : "Senior Member, TechSquad",
+        "imgSrc" : "gaurav-rawat.jpg",
+        "linkedin" : "https://www.linkedin.com/in/gaurav-rawat-20135226a/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Saurabh Mishra",
+        "pos" : "",
+        "imgSrc" : "",
+        "linkedin" : "https://www.linkedin.com/in/saurabh-mishra-85a3b5239/",
+        "github" : "https://github.com/smishra-247",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Sarvi Sharma",
+        "pos" : "",
+        "imgSrc" : "sarvi.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sarvi-sharma-909a95292/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Sparsh Jaiswal",
+        "pos" : "",
+        "imgSrc" : "sparsh.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sparsh-jaiswal-a061b3267/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Drishti Jaiswal",
+        "pos" : "",
+        "imgSrc" : "drishti.jpeg",
+        "linkedin" : "https://www.linkedin.com/in//",
+        "github" : "https://github.com/drishti-jaiswal",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Ujjwal Kumar Singh",
+        "pos" : "",
+        "imgSrc" : "ujjwal.jpg",
+        "linkedin" : "https://www.linkedin.com/in/theujjwalsinghh",
+        "github" : "https://github.com/theujjwalsingh18",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Akshita Deshwal",
+        "pos" : "",
+        "imgSrc" : "akshita.jpeg",
+        "linkedin" : "https://www.linkedin.com/in/akshita-deshwal-193955235/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Vartika Sharma",
+        "pos" : "",
+        "imgSrc" : "vartika.jpeg",
+        "linkedin" : "https://www.linkedin.com/in/vartika-sharma-509504292/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Sunny Raj",
+        "pos" : "",
+        "imgSrc" : "sunny.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sunnyraj84348/",
+        "github" : "https://github.com/SunnyRaj84348",
+        "twitter" : "#"
+    }
+]
