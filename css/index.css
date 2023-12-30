@@ -41,6 +41,7 @@ footer {
 .member-img{
     aspect-ratio: 1/1;
     object-fit: cover;
+    transition: all 0.5s ease-in-out;
 }
 
 #club-logo{
