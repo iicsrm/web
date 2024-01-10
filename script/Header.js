@@ -8,8 +8,8 @@ const generateHeader = () => {
             </div>
             <a href="https://www.srmup.in/"><img id="club-logo" src="./public/img/iic-logo.png" alt="Club Logo" class="mx-auto h-32 w-32 max-w-xs mt-6 lg:mt-0"></a>
             <div class="text-center block lg:hidden">
-                <h1 class="mt-6 text-3xl font-bold">IIC - Institutional Innovation Council</h1>
-                <p class="mt-1 text-xl my-4">Department of Computer Applications</p>
+                <h1 class="mt-6 text-3xl font-bold">IT Club - Department of Computer Applications </h1>
+                <p class="mt-1 text-xl my-4"></p>
             </div>
     </header>
 
