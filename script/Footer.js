@@ -7,6 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
 const generateFooter = () => {
     return `
     <footer class="bg-gray-900 text-white text-center py-3 mt-auto ">
-        &copy; 2023 IIC-SRMIST Delhi-NCR. All rights reserved.
+        &copy; 2023 IT Club, Department of Computer Applications-SRMIST Delhi-NCR. All rights reserved.
     </footer>`;
 }
