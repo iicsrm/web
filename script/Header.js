@@ -3,13 +3,13 @@ const generateHeader = () => {
     <header class="text-center py-8 flex justify-around content-start flex-col lg:flex-row">
             <a href="./index.html"><img src="./public/img/srm-logo.png" alt="Club Logo" class="mx-auto max-w-xs"></a>
             <div class="mr-8 text-center hidden lg:block">
-                <h1 class="mt-6 text-3xl font-bold">IIC - Institutional Innovation Council</h1>
+                <h1 class="mt-6 text-3xl font-bold">IT Club</h1>
                 <p class="mt-1 text-xl my-4">Department of Computer Applications</p>
             </div>
             <a href="https://www.srmup.in/"><img id="club-logo" src="./public/img/iic-logo.png" alt="Club Logo" class="mx-auto h-32 w-32 max-w-xs mt-6 lg:mt-0"></a>
             <div class="text-center block lg:hidden">
-                <h1 class="mt-6 text-3xl font-bold">IT Club - Department of Computer Applications </h1>
-                <p class="mt-1 text-xl my-4"></p>
+            <h1 class="mt-6 text-3xl font-bold">IT Club</h1>
+            <p class="mt-1 text-xl my-4">Department of Computer Applications</p>
             </div>
     </header>
 
