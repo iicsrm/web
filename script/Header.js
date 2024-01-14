@@ -1,7 +1,7 @@
 const generateHeader = () => {
     return `
     <header class="text-center py-8 flex justify-around content-start flex-col lg:flex-row">
-            <a href="./index.html"><img src="./public/img/srm-logo.png" alt="Club Logo" class="mx-auto w-48 md:w-64 md:max-w-xs"></a>
+            <a href="./index.html"><img src="./public/img/srm-logo.png" alt="SRM Logo" class="mx-auto w-48 md:w-64 md:max-w-xs"></a>
             <div class="mr-8 text-center hidden lg:block">
                 <h1 class="mt-6 text-5xl font-bold">IT Club</h1>
                 <p class="mt-1 text-2xl my-4">Department of Computer Applications</p>
