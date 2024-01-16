@@ -10,7 +10,7 @@
     {
         "name" : "Priyanshu Joshi",
         "pos" : "Team Lead, MarkeTix",
-        "imgSrc" : "priyanshu-1.jpg",
+        "imgSrc" : "priyanshu.jpg",
         "linkedin" : "https://www.linkedin.com/in/priyanshu-joshi03/",
         "github" : "#",
         "twitter" : "#"
@@ -18,7 +18,7 @@
     {
         "name" : "Anubhav Yadav",
         "pos" : "Team Lead, InnoVix",
-        "imgSrc" : "anubhav.jpeg",
+        "imgSrc" : "anubhav.jpg",
         "linkedin" : "https://www.linkedin.com/in/anubhav-yadav-srm/",
         "github" : "https://github.com/AnubhavYadavBCA25",
         "twitter" : "https://twitter.com/i_am_anubhav7"
@@ -26,7 +26,7 @@
     {
         "name" : "Eshaan Sabharwal",
         "pos" : "Team Lead, TechSquad",
-        "imgSrc" : "eshaan.jpeg",
+        "imgSrc" : "eshaan.jpg",
         "linkedin" : "https://www.linkedin.com/in/eshaan-sabharwal-b73a201b2/",
         "github" : "https://github.com/EshaanSabharwal",
         "twitter" : "#"
@@ -58,7 +58,7 @@
     {
         "name" : "Gaurav Rawat",
         "pos" : "Senior Member, TechSquad",
-        "imgSrc" : "gaurav-rawat.jpg",
+        "imgSrc" : "gaurav.jpg",
         "linkedin" : "https://www.linkedin.com/in/gaurav-rawat-20135226a/",
         "github" : "#",
         "twitter" : "#"
@@ -138,7 +138,7 @@
     {
         "name" : "Divyam Sharma",
         "pos" : "Member, Marketix",
-        "imgSrc" : "blank-m.png",
+        "imgSrc" : "divyam.jpg",
         "linkedin" : "#",
         "github" : "#",
         "twitter" : "#"
@@ -148,6 +148,14 @@
         "pos" : "Member, InnoVix",
         "imgSrc" : "akshita.jpeg",
         "linkedin" : "https://www.linkedin.com/in/akshita-deshwal-193955235/",
+        "github" : "#",
+        "twitter" : "#"
+    },
+    {
+        "name" : "Sanchi Tyagi",
+        "pos" : "Senior Member, TechSquad",
+        "imgSrc" : "sanchi.jpg",
+        "linkedin" : "https://www.linkedin.com/in/sanchi-tyagi-7043892a7/",
         "github" : "#",
         "twitter" : "#"
     }
