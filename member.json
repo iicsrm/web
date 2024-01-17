@@ -66,7 +66,7 @@
     {
         "name" : "Mohd. Ayan Khan",
         "pos" : "Senior Member, WebxPert",
-        "imgSrc" : "blank-m.png",
+        "imgSrc" : "ayan.jpg",
         "linkedin" : "https://www.linkedin.com/in/ayan-khan-0990a127b/",
         "github" : "https://github.com/ayansrmed100",
         "twitter" : "#"
@@ -82,7 +82,7 @@
     {
         "name" : "Vartika Sharma",
         "pos" : "Member, InnoVix",
-        "imgSrc" : "vartika.jpeg",
+        "imgSrc" : "vartika.jpg",
         "linkedin" : "https://www.linkedin.com/in/vartika-sharma-509504292/",
         "github" : "#",
         "twitter" : "#"
@@ -90,7 +90,7 @@
     {
         "name" : "Drishti Jaiswal",
         "pos" : "Senior Member, TechSquad",
-        "imgSrc" : "drishti.jpeg",
+        "imgSrc" : "drishti.jpg",
         "linkedin" : "https://www.linkedin.com/in//",
         "github" : "https://github.com/drishti-jaiswal",
         "twitter" : "#"
@@ -130,7 +130,7 @@
     {
         "name" : "Ruchi Chaudhary",
         "pos" : "Member, WebxPert",
-        "imgSrc" : "blank-f.jpg",
+        "imgSrc" : "ruchi.jpg",
         "linkedin" : "#",
         "github" : "https://github.com/Ruchi7310",
         "twitter" : "#"
