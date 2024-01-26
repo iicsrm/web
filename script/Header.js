@@ -15,6 +15,7 @@ const generateHeader = () => {
 
     <nav class="bg-white p-4 flex justify-evenly text-lg font-medium border-b-2 shadow-md">
         <a class="mx-4" href="./index.html">Home</a>
+        <a class="mx-4" href="./event.html">Event</a>
         <a class="mx-4" href="./teams.html">Teams</a>
         <a class="mx-4" href="./members.html">Members</a>
         <a class="mx-4" href="#">Contact</a>
