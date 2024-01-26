@@ -8,17 +8,49 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="./css/index.css">
     <link rel="icon" href="./public/img/fav.ico" type="image/x-icon">
-</head>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+   </head>
 
 <body class="flex flex-col min-h-screen bg-gray-100">
     <script src="./script/Header.js"></script>
-    
-    <section id="body-section" class="mx-auto md:my-5">
-        <script src="./script/Event.js"></script>
-    </section>
-    <div class="bg-black flex justify-center mt-2 md:mt-10">
-        <img src="./public/quizmantra-vid.gif" alt="quizmantra" class="md:w-1/3 aspect-video rounded-lg shadow-lg shadow-black bg-black">
-    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <div class="owl-carousel">
+       <div class="item"><img src="./public/img/QuizMantra24/Image 1.jpg" alt="Image 1"></div>
+       <div class="item"><img src="./public/img/QuizMantra24/Image 2.jpg" alt="Image 2"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 3.jpg" alt="Image 3"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 4.jpg" alt="Image 4"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 5.jpg" alt="Image 5"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 6.jpg" alt="Image 6"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 7.jpg" alt="Image 7"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 8.jpg" alt="Image 8"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 9.jpg" alt="Image 9"></div>
+        <div class="item"><img src="./public/img/QuizMantra24/Image 10.jpg" alt="Image 10"></div>
+     </div>
+     <script>
+      $(document).ready(function(){
+         $(".owl-carousel").owlCarousel({
+            items: 3, // Number of items to show
+            loop: true, // Enable loop
+            autoplay: true, // Enable autoplay
+            autoplayTimeout: 3000, // Autoplay interval in milliseconds
+            responsive:{
+               0:{
+                  items:1
+               },
+               600:{
+                  items:3
+               },
+               1000:{
+                  items:3
+               }
+            }
+         });
+      });
+   </script>
     <script src="./script/Footer.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.js"></script>
 </body>
