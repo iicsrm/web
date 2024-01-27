@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const generateEvent = () =>{
     let result = '<div class="owl-carousel md:flex items-center">';
     for(let i=1; i<=14; i++){
-        result += `<div class="item m-5"><img class="object-fill align-middle rounded-lg" src="./public/img/quizmantra/carousel/${i}.jpg" alt="Image ${i}"></div>`
+        result += `<div class="item m-5"><img class="object-fill rounded-lg" src="./public/img/quizmantra/carousel/${i}.jpg" alt="Image ${i}"></div>`
     }
     result+=`</div>
     <div>
