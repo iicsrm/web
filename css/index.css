@@ -50,12 +50,36 @@ footer {
     aspect-ratio: 1/1;
 }
 
-.owl-carousel .item{
-    margin: 3px;
-}
+  /* Basic styling for navigation buttons and dots */
+  .owl-prev, .owl-next, .owl-dots {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
 
-.owl-carousel .item img{
-    display: block;
-    width: auto;
-    height: auto;
-}
+  .owl-prev {
+    left: 10px;
+  }
+
+  .owl-next {
+    right: 10px;
+  }
+
+  .owl-dots {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .owl-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #333;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .owl-dot.active {
+    background-color: #0000;
+  }
