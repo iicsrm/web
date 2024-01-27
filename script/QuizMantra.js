@@ -68,7 +68,7 @@ const generateEvent = () => {
     let result = ''
     data.forEach(element => {
     result += `
-    <tr class="odd:bg-gray-900 even:bg-gray-800 border-b border-gray-700">
+    <tr class="odd:bg-gray-900 even:bg-gray-800 border-b border-gray-700 text-orange-200">
         <th scope="row" class="md:py-4 py-3 text-white">
             ${element.Rank}
         </th>
