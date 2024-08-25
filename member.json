@@ -1,7 +1,7 @@
 [
     {
         "name" : "Keshav Priyam",
-        "pos" : "Team Lead, WebxPert",
+        "pos" : "Technical Lead, Team Lead, WebxPert",
         "imgSrc" : "keshav.jpg",
         "linkedin" : "https://www.linkedin.com/in/keshavpriyam/",
         "github" : "https://github.com/kshavp",
@@ -9,7 +9,7 @@
     },
     {
         "name" : "Priyanshu Joshi",
-        "pos" : "Team Lead, MarkeTix",
+        "pos" : "President, Team Lead, MarkeTix",
         "imgSrc" : "priyanshu.jpg",
         "linkedin" : "https://www.linkedin.com/in/priyanshu-joshi03/",
         "github" : "#",
